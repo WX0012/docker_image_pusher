@@ -2,3 +2,4 @@ nginx
 
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/qbittorrent
+fingerboy/istoreos-x86-64
